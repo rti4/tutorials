@@ -1,0 +1,18 @@
+body
+{
+   background-image: url(/Gifs/bluestrip.gif);
+   background-position: top left;
+   background-repeat: repeat-y;
+   margin-left: 0px;
+   margin-right: 5%;
+}
+P
+{
+   font-family: "Trebuchet MS", "Sans-Serif";
+   text-align: left;
+}
+h4,h5,h6
+{
+   font-family: "Trebuchet MS", "Sans-Serif";
+   text-align: left;
+}

@@ -1,0 +1,8 @@
+dbaldwi3:hydra2 ~> ls                                                                                                                                                  <- 12:26PM
+Alyssa App2008.pdf  call_stack*           cs140/     CSLAB1_8_25_2008       Desktop/                             junk/   Music/      steve/       Unsaved Document 1   x1/
+a.out*              call_stack.c          cs160/     CSLAB1_8_25_2008~      Documents/                           lab09/  ntprofile/  steve2/      Unsaved Document 1~
+bin/                Cprogramming/         CS160/     CSLAB1_8_25_2008_code  final_asgn/                          lab1/   partner/    studyguide/  Unsaved Document 2
+broker.c            create.c              cs302/     c_test/                hugh/                                lab2/   Pictures/   SU08/        Unsaved Document 3
+bs_tree/            cs102/                cs320/     dating/                install_flash_player_9_linux.tar.gz  lab6/   practice/   summer/      Videos/
+c/                  cs_102_booklet_labs/  CS_IDAHO/  David's_Resume.doc     java/                                labs/   Public/     Templates/   web/
+dbaldwi3:hydra2 ~>  
